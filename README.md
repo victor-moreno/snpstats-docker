@@ -1,4 +1,4 @@
-# Docker container to run locally SNPstats [(https://www.snpstats.net)]https://www.snpstats.net
+# Docker container to run locally SNPstats [(https://www.snpstats.net)](https://www.snpstats.net)
 
 **SNPStats** is a simple, ready-to-use software which has been designed to analyze genetic-epidemiology studies of association using SNPs.
 
