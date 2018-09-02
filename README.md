@@ -26,12 +26,13 @@ Bioinformatics 2006 22: 1928-1929.
 
 
 
-## Based on alpine-r & alpine-apache-php
+## Dockerfile based on alpine-r & alpine-apache-php
 [Alpine-r](https://github.com/artemklevtsov/r-alpine/blob/master/release/Dockerfile) @artemklevtsov
 
 [Alpine-apache-php](https://github.com/wichon/alpine-apache-php/blob/master/Dockerfile) @wichon
 
-SNPstats 
+**SNPstats** is based on [R](https://cran.r-project.org). View [R-project license](https://www.r-project.org/Licenses/) information for the software contained in this image.
+The main R libraries used are [genetics](https://cran.r-project.org/web/packages/genetics/) and [haplo.stats](https://cran.r-project.org/web/packages/haplo.stats/)
 
 ## Install on your computer:
 
