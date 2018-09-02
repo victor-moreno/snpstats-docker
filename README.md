@@ -27,9 +27,9 @@ Bioinformatics 2006 22: 1928-1929.
 
 
 ## Based on alpine-r & alpine-apache-php
-[Alpine-r] (https://github.com/artemklevtsov/r-alpine/blob/master/release/Dockerfile) @artemklevtsov
+[Alpine-r](https://github.com/artemklevtsov/r-alpine/blob/master/release/Dockerfile) @artemklevtsov
 
-[Alpine-apache-php] (https://github.com/wichon/alpine-apache-php/blob/master/Dockerfile) @wichon
+[Alpine-apache-php](https://github.com/wichon/alpine-apache-php/blob/master/Dockerfile) @wichon
 
 SNPstats 
 
