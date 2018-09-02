@@ -38,6 +38,7 @@ The main R libraries used are [genetics](https://cran.r-project.org/web/packages
 
 ```
 git clone https://github.com/victor-moreno/snpstats-docker
+cd snpstats-docker
 ```
 
 #### Build
