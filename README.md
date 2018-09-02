@@ -62,8 +62,8 @@ The application keeps temporary files. To avoid that the image grows, you can ex
 
 ```
 dir=`pwd`
-mkdir tmp_html
-mkdir tmp_scripts
+mkdir $dir/tmp_html
+mkdir $dir/tmp_scripts
 
 docker run -d -p 8083:80 --name snpstats -v $dir/tmp_scripts:/app/snpstats/tmp_scripts -v $dir/tmp_html:/app/snpstats/tmp_html snpstats
 ```
@@ -72,7 +72,7 @@ To improve and debug, extract the code and expose it:
 
 ```
 tar xzf snpstats.tar.gz
-docker run -d -p 8083:80 --name snpstats -v snpstats:/app/snpstats snpstats
+docker run -d -p 8083:80 --name snpstats -v $"`pwd`"/snpstats:/app/snpstats snpstats
 ```
 The you can easily modifiy the code inside the container.
 
