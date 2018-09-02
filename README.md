@@ -19,7 +19,8 @@ If multiple SNPs are selected:
 SNPstats was developed by Xavier Solé at the Unit of Biomarkers and Susceptibility of the Cancer Prevention and Control Program, Catalan Institute of Oncology (https://www.icoprevencio.cat)
 
 
-Please cite the paper: 
+**Please cite the paper**:
+
 SNPStats: a web tool for the analysis of association studies
 Xavier Sole, Elisabet Guino, Joan Valls, Raquel Iniesta, and Victor Moreno
 Bioinformatics 2006 22: 1928-1929.
