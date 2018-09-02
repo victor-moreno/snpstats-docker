@@ -1,4 +1,4 @@
-# Docker container to run locally SNPstats [(https://www.snpstats.net)](https://www.snpstats.net)
+# Docker container to run locally SNPstats (https://www.snpstats.net)
 
 **SNPStats** is a simple, ready-to-use software which has been designed to analyze genetic-epidemiology studies of association using SNPs.
 
@@ -16,7 +16,7 @@ If multiple SNPs are selected:
 - Analysis of association of haplotypes with the response
 - Analysis of interactions (haplotypes-covariate)
 
-SNPstats was developed by the Uniti of Biomarkers and Susceptibility of the Cancer Prevention and Control Program of the Catalan Institute of Oncology [(https://www.icoprevencio.cat)](https://www.icoprevencio.cat)
+SNPstats was developed by the Uniti of Biomarkers and Susceptibility of the Cancer Prevention and Control Program of the Catalan Institute of Oncology (https://www.icoprevencio.cat)
 
 
 Paper: 
@@ -27,9 +27,9 @@ Bioinformatics 2006 22: 1928-1929.
 
 
 ## Based on alpine-r & alpine-apache-php
-[Alpine-r](https://github.com/artemklevtsov/r-alpine/blob/master/release/Dockerfile)
+[Alpine-r] (https://github.com/artemklevtsov/r-alpine/blob/master/release/Dockerfile) @artemklevtsov
 
-[Alpine-apache-php](https://github.com/wichon/alpine-apache-php/blob/master/Dockerfile)
+[Alpine-apache-php] (https://github.com/wichon/alpine-apache-php/blob/master/Dockerfile) @wichon
 
 SNPstats 
 
