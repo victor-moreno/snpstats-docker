@@ -26,7 +26,7 @@ ADD snpstats.tar.gz /app/
 ENV WEBAPP_ROOT snpstats
 
 # php.ini needs modification: increase max_input_vars
-COPY snpstats/php/php.ini /etc/php5/php.ini
+RUN cp /app/snpstats/php/php.ini /etc/php5/php.ini
 
 ENTRYPOINT ["/opt/utils/start.sh"]
 
