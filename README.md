@@ -16,10 +16,11 @@ If multiple SNPs are selected:
 - Analysis of association of haplotypes with the response
 - Analysis of interactions (haplotypes-covariate)
 
-SNPstats was developed by the Unit of Biomarkers and Susceptibility of the Cancer Prevention and Control Program of the Catalan Institute of Oncology (https://www.icoprevencio.cat)
+SNPstats was developed by Xavier Solé at the Unit of Biomarkers and Susceptibility of the Cancer Prevention and Control Program, Catalan Institute of Oncology (https://www.icoprevencio.cat)
 
 
-Paper: 
+**Please cite the paper**:
+
 SNPStats: a web tool for the analysis of association studies
 Xavier Sole, Elisabet Guino, Joan Valls, Raquel Iniesta, and Victor Moreno
 Bioinformatics 2006 22: 1928-1929.
